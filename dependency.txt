@@ -1,0 +1,5 @@
+opencv
+scikit-image
+
+sudo apt-get install python-scipy libsuitesparse-dev
+conda install -c conda-forge scikit-sparse
