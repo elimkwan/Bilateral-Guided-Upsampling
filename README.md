@@ -1,4 +1,4 @@
-The project showcased a pythonh implementation of Bilateral Guided Upsampling and extended its application to Tone Mapping and Gradient Enhancement Operators. 
+The project showcased a python implementation of Bilateral Guided Upsampling introduced by J. Chen et al. (2016), and extended its application to Tone Mapping and Gradient Enhancement Operators. 
 
 ## Running the code
 The full pipeline is demonstrated in `main.ipynb`
