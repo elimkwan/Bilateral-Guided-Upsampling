@@ -1,7 +1,7 @@
 The project showcased a python implementation of Bilateral Guided Upsampling introduced by J. Chen et al. (2016), and extended its application to Tone Mapping and Gradient Enhancement Operators. 
 
 ## Running the code
-The full pipeline is demonstrated in `main.ipynb`
+The full pipeline is demonstrated in `main.ipynb`. A short demo is in `demo.ipynb` which uses the `main.py` as a module. 
 
 ## Experiment Results
 High-resolution output from the experiments are documented in `./report`
@@ -26,3 +26,4 @@ import imageio
 imageio.plugins.freeimage.download()
 from TMQI import TMQI
 ```
+If some libraries are still missing, feel free to check out the `environment/environment_graphics.yml`
